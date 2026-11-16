@@ -1,0 +1,14 @@
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars.Tests\obj\Release\net10.0\SDRSharp.LBandAcars.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars.Tests\obj\Release\net10.0\SDRSharp.LBandAcars.Tests.AssemblyInfoInputs.cache
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars.Tests\obj\Release\net10.0\SDRSharp.LBandAcars.Tests.AssemblyInfo.cs
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars.Tests\obj\Release\net10.0\SDRSharp.LBandAcars.Tests.csproj.CoreCompileInputs.cache
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars.Tests\bin\Release\net10.0\SDRSharp.LBandAcars.Tests.exe
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars.Tests\bin\Release\net10.0\SDRSharp.LBandAcars.Tests.deps.json
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars.Tests\bin\Release\net10.0\SDRSharp.LBandAcars.Tests.runtimeconfig.json
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars.Tests\bin\Release\net10.0\SDRSharp.LBandAcars.Tests.dll
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars.Tests\bin\Release\net10.0\SDRSharp.LBandAcars.Tests.pdb
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars.Tests\obj\Release\net10.0\SDRSharp.LBandAcars.Tests.dll
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars.Tests\obj\Release\net10.0\refint\SDRSharp.LBandAcars.Tests.dll
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars.Tests\obj\Release\net10.0\SDRSharp.LBandAcars.Tests.pdb
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars.Tests\obj\Release\net10.0\SDRSharp.LBandAcars.Tests.genruntimeconfig.cache
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars.Tests\obj\Release\net10.0\ref\SDRSharp.LBandAcars.Tests.dll

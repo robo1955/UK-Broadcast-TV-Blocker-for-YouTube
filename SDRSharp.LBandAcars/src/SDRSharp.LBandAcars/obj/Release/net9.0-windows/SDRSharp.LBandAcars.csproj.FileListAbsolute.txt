@@ -1,0 +1,12 @@
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars\obj\Release\net9.0-windows\SDRSharp.LBandAcars.csproj.AssemblyReference.cache
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars\obj\Release\net9.0-windows\SDRSharp.LBandAcars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars\obj\Release\net9.0-windows\SDRSharp.LBandAcars.AssemblyInfoInputs.cache
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars\obj\Release\net9.0-windows\SDRSharp.LBandAcars.AssemblyInfo.cs
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars\obj\Release\net9.0-windows\SDRSharp.LBandAcars.csproj.CoreCompileInputs.cache
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars\bin\Release\net9.0-windows\SDRSharp.LBandAcars.deps.json
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars\bin\Release\net9.0-windows\SDRSharp.LBandAcars.dll
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars\bin\Release\net9.0-windows\SDRSharp.LBandAcars.pdb
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars\obj\Release\net9.0-windows\SDRSharp.LBandAcars.dll
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars\obj\Release\net9.0-windows\refint\SDRSharp.LBandAcars.dll
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars\obj\Release\net9.0-windows\SDRSharp.LBandAcars.pdb
+C:\Users\robo\source\SDRSharp.LBandAcars\src\SDRSharp.LBandAcars\obj\Release\net9.0-windows\ref\SDRSharp.LBandAcars.dll
