@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>SDRSharp.FT2</AssemblyName>
+    <RootNamespace>SDRSharp.FT2</RootNamespace>
+    <Platforms>AnyCPU</Platforms>
+    <Description>FT2 decoder. FT2 is the FT4 waveform at twice the symbol rate.</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SDRSharp.Common">
+      <HintPath>..\..\..\SDRSharp.LBandAcars\lib\SDRSharp.Common.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="SDRSharp.PanView">
+      <HintPath>..\..\..\SDRSharp.LBandAcars\lib\SDRSharp.PanView.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="SDRSharp.Radio">
+      <HintPath>..\..\..\SDRSharp.LBandAcars\lib\SDRSharp.Radio.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+</Project>

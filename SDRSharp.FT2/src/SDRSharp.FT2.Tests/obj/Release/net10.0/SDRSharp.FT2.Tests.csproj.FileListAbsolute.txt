@@ -1,0 +1,14 @@
+C:\Users\robo\source\SDRSharp.FT2\src\SDRSharp.FT2.Tests\bin\Release\net10.0\SDRSharp.FT2.Tests.exe
+C:\Users\robo\source\SDRSharp.FT2\src\SDRSharp.FT2.Tests\bin\Release\net10.0\SDRSharp.FT2.Tests.deps.json
+C:\Users\robo\source\SDRSharp.FT2\src\SDRSharp.FT2.Tests\bin\Release\net10.0\SDRSharp.FT2.Tests.runtimeconfig.json
+C:\Users\robo\source\SDRSharp.FT2\src\SDRSharp.FT2.Tests\bin\Release\net10.0\SDRSharp.FT2.Tests.dll
+C:\Users\robo\source\SDRSharp.FT2\src\SDRSharp.FT2.Tests\bin\Release\net10.0\SDRSharp.FT2.Tests.pdb
+C:\Users\robo\source\SDRSharp.FT2\src\SDRSharp.FT2.Tests\obj\Release\net10.0\SDRSharp.FT2.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robo\source\SDRSharp.FT2\src\SDRSharp.FT2.Tests\obj\Release\net10.0\SDRSharp.FT2.Tests.AssemblyInfoInputs.cache
+C:\Users\robo\source\SDRSharp.FT2\src\SDRSharp.FT2.Tests\obj\Release\net10.0\SDRSharp.FT2.Tests.AssemblyInfo.cs
+C:\Users\robo\source\SDRSharp.FT2\src\SDRSharp.FT2.Tests\obj\Release\net10.0\SDRSharp.FT2.Tests.csproj.CoreCompileInputs.cache
+C:\Users\robo\source\SDRSharp.FT2\src\SDRSharp.FT2.Tests\obj\Release\net10.0\SDRSharp.FT2.Tests.dll
+C:\Users\robo\source\SDRSharp.FT2\src\SDRSharp.FT2.Tests\obj\Release\net10.0\refint\SDRSharp.FT2.Tests.dll
+C:\Users\robo\source\SDRSharp.FT2\src\SDRSharp.FT2.Tests\obj\Release\net10.0\SDRSharp.FT2.Tests.pdb
+C:\Users\robo\source\SDRSharp.FT2\src\SDRSharp.FT2.Tests\obj\Release\net10.0\SDRSharp.FT2.Tests.genruntimeconfig.cache
+C:\Users\robo\source\SDRSharp.FT2\src\SDRSharp.FT2.Tests\obj\Release\net10.0\ref\SDRSharp.FT2.Tests.dll
